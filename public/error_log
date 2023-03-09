@@ -1,0 +1,65 @@
+[11-Mar-2022 11:22:11 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:22:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:23:05 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:23:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:23:31 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:23:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:23:43 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 11:23:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:25:19 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:25:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:28:54 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:28:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:29:29 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:29:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:31:36 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:31:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:34:04 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:34:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:38:36 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:38:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:38:43 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 12:38:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 22:13:59 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 22:13:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 22:26:12 UTC] PHP Warning:  require(/home/rinohofa/public_html/dash/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/rinohofa/public_html/dash/public/index.php on line 34
+[11-Mar-2022 22:26:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rinohofa/public_html/dash/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/rinohofa/public_html/dash/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/rinohofa/public_html/dash/public/index.php on line 34

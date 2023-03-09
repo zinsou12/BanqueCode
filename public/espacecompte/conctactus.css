@@ -1,0 +1,360 @@
+#imagecontact
+{
+	background-image: url(../images/group_contact.png);
+	position:absolute;
+	width:400px;
+	top:250px;
+	height:350px;
+	left:230;
+	background-image:no-repeat;
+	
+
+}
+
+
+.logo
+{
+	top:80px;
+	width:150px;
+	height:65px;
+	background:no-repeat;
+	position:absolute;
+	left: 250px;
+	background-image: url(../images/UBA-logo-2.png);
+
+}
+
+
+
+
+.entete
+{
+	top:60px;
+	width:725px;
+	height:120px;
+	background:no-repeat;
+	position:absolute;
+	left: 450px;
+	background-image: url(../images/contactimage.jpg);
+}
+
+
+
+
+/* demo page styles */
+body {
+    margin:0;
+    padding:0;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+}
+
+#menu
+{
+position:absolute;
+width:950px;
+height: 30px;
+left:273px;
+top: 200px;
+background:transparent;
+
+}
+
+
+
+/* main menu styles */
+
+.nav,.nav ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.nav {
+    position:relative;
+	left:0px;
+	
+}
+
+.nav ul {
+    height:0;
+    left:0;
+    overflow:hidden;
+    position:absolute;
+    top:46px;
+}
+
+.nav li {
+    float:left;
+    position:relative;
+}
+
+.nav li a {
+    -moz-transition:0.5s;
+    -o-transition:0.5s;
+    -webkit-transition:0.5s;
+    background-color:#D61A0C;
+    border:1px solid #D61A0C;
+    color:#FFF;
+    display:block;
+    font-size:14px;
+    line-height:10px;
+    padding:7px 15px;
+    text-decoration:none;
+    transition:0.5s;
+}
+
+.nav li:hover > a {
+    background:white;
+    border-color:white;
+    color:#D61A0C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#logologo
+{
+top:3px;
+position:absolute;
+left:730px;
+width:300px
+
+}
+
+
+#logologo span {
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-right: 5px;
+    font-style: italic;
+    font-family: arial,sans-serif;
+}
+
+
+
+
+
+
+
+.foot_bottom 
+{
+    height: 39px;
+	 top: 15px;
+	 position:absolute;
+	 left: 0px;
+	 width:350px;
+}
+
+#menu3 {
+height:12px;
+font-family: arial,sans-serif;
+font-weight: normal;
+padding-top: 14px;
+width: 990px;
+border: 0px solid rgb(0, 0, 0);
+top:593px;
+position:absolute;
+left:230px;
+background-color:#d61a0c;
+height:15px;
+
+}
+
+#foot_copy {
+    position: absolute;
+    left: 750px;
+    top: 625px;
+    font-family: arial,sans-serif;
+	color:white;
+	width:500px
+}
+
+#menu1a {
+    font-family: arial,sans-serif;
+}
+
+#nav1a {
+    color: rgb(153, 153, 153);
+}
+
+
+
+#nav1a a, #nav1a a:link, #nav1a a:visited {
+    color: rgb(153, 153, 153);
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px 7px;
+}
+
+#foot_copy span {
+    color: rgb(153, 153, 153);
+    padding-top: 10px;
+    padding-right: 0px;
+    font-size: 13px;
+}
+
+#nav3 li a, #nav3 li a:link, #nav3 li a:visited, #nav3 li span {
+    display: block;
+    margin: 0px 0px 0px -1px;
+    padding: 0px 10px;
+    border-left: 0px solid rgb(153, 153, 153);
+    border-right: 0px solid rgb(153, 153, 153);
+}
+#nav3 li {
+    float: left;
+    padding: 0px;
+}
+#nav3 li {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0px;
+}
+#menu3 li {
+    float: left;
+    padding: 0px 0px;
+}
+#menu3 ul {
+    list-style: none outside none;
+    line-height: normal;
+}
+
+
+
+#nav3 li a, #nav3 li a:link, #nav3 li a:visited, #nav3 li span {
+    display: block;
+    margin: 0px 0px 0px -1px;
+    padding: 0px 10px;
+    border-left: 0px solid rgb(153, 153, 153);
+    border-right: 0px solid rgb(153, 153, 153);
+}
+#nav3 li a, #nav3 li a:link, #nav3 li a:visited {
+    color: rgb(153, 153, 153);
+}
+#menu3 a, #menu3 span {
+	text-decoration: none;
+	font-size: 15px;
+	color: rgb(255,255,255);
+	line-height: 20px;
+}
+
+
+
+
+#formmsg
+{
+top:230px;
+position:absolute;
+left:660px;
+width:300px;
+font-size:18px;
+color:#d61a0c;
+
+}
+
+
+
+
+form {
+  /* Just to center the form on the page */
+  margin: 0 auto;
+  width: 400px;
+
+  /* To see the limits of the form */
+  padding: 1em;
+  border: 1px solid #d61a0c;
+  border-radius: 1em;
+}
+
+div + div {
+  margin-top: 1em;
+}
+
+label {
+  /* To make sure that all label have the same size and are properly align */
+  display: inline-block;
+  width: 90px;
+  text-align: right;
+}
+
+input, textarea {
+  /* To make sure that all text field have the same font settings
+     By default, textarea are set with a monospace font */
+  font: 1em sans-serif;
+
+  /* To give the same size to all text field */
+  width: 300px;
+
+  -moz-box-sizing: border-box;
+       box-sizing: border-box;
+
+  /* To harmonize the look & feel of text field border */
+  border: 1px solid #d61a0c;
+}
+
+input:focus, textarea:focus {
+  /* To give a little highligh on active elements */
+  border-color: #000;
+}
+
+textarea {
+  /* To properly align multiline text field with their label */
+  vertical-align: top;
+
+  /* To give enough room to type some text */
+  height: 5em;
+
+  /* To allow users to resize any textarea vertically
+     It works only on Chrome, Firefox and Safari */
+  resize: vertical;
+}
+
+.button {
+  /* To position the buttons to the same position of the text fields */
+  padding-left: 90px; /* same size as the label elements */
+}
+
+button {
+  /* This extra magin represent the same space as the space between
+     the labels and their text fields */
+  margin-left: .5em;
+}
+
+
+
+
+
+
+
+#numero
+{
+top:520px;
+position:absolute;
+left:660px;
+color:#d61a0c;
+font-size:25px;
+}

@@ -1,0 +1,23 @@
+.loader{
+
+    top: 50%;
+    right: 5;
+    position:absolute;
+    z-index: 30;
+    display: none;  
+
+}
+
+.box{
+    pointer-events: none;
+    filter:blur(1px);
+}
+
+.resultat{
+
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    display: none;  
+       
+}

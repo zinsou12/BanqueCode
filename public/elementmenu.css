@@ -1,0 +1,78 @@
+/* demo page styles */
+body {
+    margin:0px;
+    padding:0px;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+}
+
+
+
+
+#menu
+{
+position:absolute;
+width:940px;
+height: 62px;
+left:334px;
+top: 35px;
+background:transparent;
+
+}
+
+
+
+/* main menu styles */
+
+.nav,.nav ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.nav {
+    position:relative;
+	left:0px;
+	
+}
+
+.nav ul {
+    height:0;
+    left:0;
+    overflow:hidden;
+    position:absolute;
+    top:46px;
+}
+
+.nav li {
+    float:left;
+    position:relative;
+	
+}
+
+.nav li a {
+    -moz-transition:0.5s;
+    -o-transition:0.5s;
+    -webkit-transition:0.5s;
+    background-color:#000080;
+    border:1px solid #000080;
+    color:#FFF;
+    display:block;
+    font-size:15px;
+    line-height:45px;
+    padding:7px 15.51px;
+    text-decoration:none;
+    transition:0.5s;
+}
+
+.nav li:hover > a {
+    background:white;
+    border-color:white;
+    color:#D61A0C;
+}
+
+.table23
+{
+text-align:right;
+margin-right:5px;
+}
+

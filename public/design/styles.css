@@ -1,0 +1,172 @@
+body 
+{
+background: whyte;
+padding: 0px;
+margin: 0px;
+background: #ffffff;
+font-family: arial,tahoma,helvetica,sans-serif,verdana;
+font-size: 14px;
+line-height: 1.25;
+font-weight: normal;
+color: #6b6b6b;
+
+
+
+
+
+}
+
+
+
+.logo {
+	width: 70%;
+	height: 100px;
+	background-image: url(images/logo.html);
+	background-position: center center;
+	background-repeat: no-repeat;
+	
+}
+
+.login-form
+ {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+	border: 1px solid #E5E5E5;
+	-webkit-border-radius: 3px;
+	   -moz-border-radius: 3px;
+	    -ms-border-radius: 3px;
+	     -o-border-radius: 3px;
+	border-radius: 3px;
+	
+	-webkit-box-shadow: 0 2px 10px -1px rgba(200,200,200,0.7);
+	   -moz-box-shadow: 0 2px 10px -1px rgba(200,200,200,0.7);
+	    -ms-box-shadow: 0 2px 10px -1px rgba(200,200,200,0.7);
+	     -o-box-shadow: 0 2px 10px -1px rgba(200,200,200,0.7);
+	        box-shadow: 0 2px 10px -1px rgba(200,200,200,0.7);
+	
+	background: white;
+	
+	left: 80px;
+	top: 100px;
+	position:absolute;
+}
+	
+
+	label {
+		color: #777;
+		font-family: sans-serif;
+		font-size: 11px;
+		cursor: pointer;
+	}
+
+	input.input {
+		width: 120px;
+		margin-top: 3px;
+		margin-right: 6px;
+		margin-bottom: 16px;
+		padding: 2px;
+		
+		border: 1px solid red;
+		outline: none;
+		
+		-webkit-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+		   -moz-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+		    -ms-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+			 -o-box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+		        box-shadow: inset 1px 1px 2px rgba(200,200,200,0.2);
+		
+		background: #FBFBFB;
+		
+		font-size: 13px;
+		font-weight: 200;
+		line-height: 1;
+		
+		
+
+	}
+
+
+
+
+#password1 {
+border-color: red;
+}
+
+.red {
+color: red;
+}
+
+
+
+
+
+#corps
+{
+position: relative;
+width: 35%;
+height: 100px;
+background-color:transparent;
+left: 0px;
+top: -20px;
+
+}
+
+
+
+
+
+
+#gauche
+{
+	position:absolute;
+	width: 500px;
+	height: 400px;
+	background-color:transparant;
+	left: 330px;
+	top: 100px;
+}
+
+#bas
+{
+	position:absolute;
+	width: 940px;
+	height: 215px;
+	background-color:transparant;
+	left: 330px;
+	top: 502px;
+}
+
+
+
+
+
+
+
+#templatemo_slider
+{
+	position:absolute;
+	width: 500px;
+	height: 500px;
+	left: 10px;
+	top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

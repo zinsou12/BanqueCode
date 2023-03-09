@@ -1,0 +1,44 @@
+ .chargement{
+     
+     border-top : 10px solid #2c3e50;
+     border-bottom : 10px solid #e74c3c;
+     border-left:10px solid green;
+     border-right:10px solid yellowgreen;
+     border-radius: 50%;
+     width: 10px;
+     height: 10px;
+     -webkit-animation: spin 1s linear infinite;
+     -o-animation: spin 1s linear infinite;
+     animation: spin 1s linear infinite;
+     margin : auto;
+     position: absolute;
+     top:0; bottom:0; left:0; right:0;   
+    
+ }
+ @-webkit-keyframes spin{
+    0%{
+        -webkit-transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+ @keyframes spin{
+     0%{
+         transform: rotate(0deg);
+     }
+     100%{
+         transform: rotate(360deg);
+     }
+ }
+
+ .response{
+     position: fixed;
+     bottom: 0;
+        
+ }
+
+
+
+ 
