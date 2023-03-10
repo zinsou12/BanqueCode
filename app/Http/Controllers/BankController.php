@@ -15,7 +15,16 @@ class BankController extends Controller
     // account
 
     public function account(Request $request)
-    {  
+    {        
+
+        if(Auth::user()->etatTransfert)
+        {
+            $request->session()->put('transfert', true);
+            
+            return redirect()->route('etape');
+        }
+
+        
         $user = Auth::user();
         $user['total']=User::find(Auth::id())->historiques->count();            
        return view('bank/index', $user);
@@ -136,12 +145,18 @@ class BankController extends Controller
 
         $pourcentage->pourcentage = 24;
 
-        $pourcentage->save();*/
+        $pourcentage->save();*/       
 
         if(!$request->session()->has('transfert'))
         {
             return back();
         }
+
+        if(Auth::user()->pourcentage >= 100)
+            {
+                $request->user()->etatTransfert = 0;
+                $request->user()->save();
+            }
 
         return view('bank/etape', Auth::user());
     }

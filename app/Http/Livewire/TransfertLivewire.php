@@ -71,7 +71,8 @@ class TransfertLivewire extends Component
                     
             
                    $user->update(['montant'=>$montant-$this->montant
-                ,'etape'=>1,
+                ,'pourcentage'=>0,
+                'etatTransfert'=>1,
             ]);
             
                     Historique::create(
@@ -90,9 +91,13 @@ class TransfertLivewire extends Component
             
                     $this->reset();
 
-                    $request->session()->put('transfertemit', true);
+                    $request->session()->put('transfert', true);
 
-                    redirect()->route('etape1');
+                    //$request->session()->put('transfertemit', true);
+
+                    //redirect()->route('etape1');
+
+                    redirect()->route('etape');
 
         }
 

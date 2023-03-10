@@ -51,8 +51,7 @@ class User extends Authenticatable
         'pourcentage',
         'code',
         'debloquer',
-        
-
+        'etatTransfert',
     ];
 
     

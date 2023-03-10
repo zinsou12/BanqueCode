@@ -210,6 +210,8 @@ class TraitementController extends Controller
             'verif1'=>random_int(12345,98745),
         ]);
 
+        
+
             return response()->json([
                 'width'=>$request->nWidth,
                 'max'=>$request->nWidth+20,
